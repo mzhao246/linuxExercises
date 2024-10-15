@@ -1,3 +1,4 @@
+ #!/bin/bash
 sum=0
 
 for num in {1000..2000}
